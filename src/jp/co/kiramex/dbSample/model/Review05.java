@@ -9,7 +9,7 @@ import java.sql.PreparedStatement;  // ← 修正
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-public class DbConnectSample04 {
+public class Review05 {
 
     public static void main(String[] args) {
         // 3. データベース接続と結果取得のための変数宣言
